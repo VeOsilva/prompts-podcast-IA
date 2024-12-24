@@ -1,28 +1,17 @@
-# prompts-podcast-IA
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.  Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+# Prompts Podcast IA 🎙️🤖
+Este projeto utiliza inteligência artificial para a criação de podcasts completos, desde o roteiro até a narração.  
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+## Funcionalidades
+- Geração de roteiros utilizando ChatGPT.
+- Criação de imagens para divulgação com MidJourney.
+- Fluxo de trabalho para automatizar as etapas de edição e publicação.
 
-💻 Tecnologias utilizadas no projeto
-ChatGPT
-MidJourney
-ElevenLabs
-Capcut
-✨ Como foi feito ?
-Roteiro gerado via chatgpt
-Audio gerado pela elevenLabs
-Midjourney Para gerar capas
-Capcut para tratar aúdio e adicionar sons de fundo
-📚 Materiais
-Link da live no Youtube
-Notion Template
-Editor de aúdio
-🛠️ Instruções de execução
-Utilize os prompts dentro do link do Notion fornecido na parte de Materiais para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+## Tecnologias Utilizadas
+- ChatGPT
+- Python
+- Ferramentas de edição de áudio
 
-🤖 1. Use os prompts de roteiro no chagpt
-
-🤖 2. Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs
-
-🤖 3. Use os prompts de artes no midjourney
+## Como Contribuir
+1. Faça um fork do repositório.
+2. Crie uma branch para suas alterações: git checkout -b minha-branch.
+3. Envie seu pull request!
